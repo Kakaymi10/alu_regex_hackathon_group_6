@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import re
 n = """show Name S23E34: Episode Title
 show Name S23E34: Episode Title"""
